@@ -1,0 +1,5 @@
+---
+title: "Dashboard"
+---
+
+Here is a [dashboard](https://madisonhess.github.io/Homework_2/) I created for a project I worked on in DACSS 690D. It looks a the predicted listing price per night on Airbnb for a specific address in Cambridge, MA and includes a choropleth visualization,
