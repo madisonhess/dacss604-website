@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Hi! I’m Madison (Maddie) Hess, a graduate student at the University of Massachusetts Amherst, where I’m pursuing an M.S. in Data Analytics and Computational Social Science and expect to graduate in February 2026. I have a background in sociology and mathematics from the University of Portland and am passionate about using data to better understand social behavior and improve community outcomes.\nI currently work at Seaport Research Partners, where I support equity research analysts through financial modeling and data mining, strengthening my quantitative and analytical skill set. My academic and applied work has explored topics such as news consumption habits, juvenile delinquency, and social networks, using tools like R, SPSS, and Excel.\nOutside of academics and work, you’ll usually find me cooking or baking, playing tennis, or learning new songs on the guitar."
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "About Me",
+    "section": "Resume",
+    "text": "Resume\nHere is an old copy of my resume for the purpose of this assignment."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Academic Projects",
+    "section": "",
+    "text": "This project uses Python and R to explore global public health data using spatial analysis techniques. Using data from the CIA World Factbook, the analysis identifies countries with the lowest rates of alcohol consumption, tobacco use, and adult obesity. Python was used to bin and categorize the health variables, and R (via sf and ggplot2) was used to visualize the spatial distribution of these indicators. The project culminated in a choropleth map highlighting the “healthiest” countries based on the combined metrics."
+  },
+  {
+    "objectID": "projects.html#spatial-analysis-of-alcohol-use-tobacco-use-and-obesity-rates-around-the-world",
+    "href": "projects.html#spatial-analysis-of-alcohol-use-tobacco-use-and-obesity-rates-around-the-world",
+    "title": "Academic Projects",
+    "section": "",
+    "text": "This project uses Python and R to explore global public health data using spatial analysis techniques. Using data from the CIA World Factbook, the analysis identifies countries with the lowest rates of alcohol consumption, tobacco use, and adult obesity. Python was used to bin and categorize the health variables, and R (via sf and ggplot2) was used to visualize the spatial distribution of these indicators. The project culminated in a choropleth map highlighting the “healthiest” countries based on the combined metrics."
+  },
+  {
+    "objectID": "projects.html#school-selection-using-ahp",
+    "href": "projects.html#school-selection-using-ahp",
+    "title": "Academic Projects",
+    "section": "School Selection Using AHP",
+    "text": "School Selection Using AHP\nAnalytic Hierarchy Process (AHP) was used to rank three schools based on six criteria: learning, friends, school life, vocational training, college prep, and music classes. Pairwise comparison matrices were created for both criteria and alternatives using data from Google Sheets. The Python library ahpy was used to calculate weights and consistency ratios."
   }
 ]

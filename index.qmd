@@ -3,17 +3,15 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_7083.png
 ---
 
-:::{#me}
+Hi! I’m Madison (Maddie) Hess, a graduate student at the University of Massachusetts Amherst, where I’m pursuing an M.S. in Data Analytics and Computational Social Science and expect to graduate in February 2026. I have a background in sociology and mathematics from the University of Portland and am passionate about using data to better understand social behavior and improve community outcomes.
 
-## Goals
+I currently work at Seaport Research Partners, where I support equity research analysts through financial modeling and data mining, strengthening my quantitative and analytical skill set. My academic and applied work has explored topics such as news consumption habits, juvenile delinquency, and social networks, using tools like R, SPSS, and Excel.
 
-## Education
+Outside of academics and work, you’ll usually find me cooking or baking, playing tennis, or learning new songs on the guitar.
 
-## Experience
+## Resume
 
-:::
-
-Thanks for checking out my web site!
+Here is an old copy of my [resume](old_resume.pdf) for the purpose of this assignment.

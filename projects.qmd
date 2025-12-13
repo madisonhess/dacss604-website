@@ -1,9 +1,11 @@
 ---
-title: "Projects"
+title: "Academic Projects"
 ---
 
-## Project 1
+## [Spatial Analysis of Alcohol Use, Tobacco Use, and Obesity Rates Around the World](https://github.com/Comp-Soc-Science-Methods/HW1/tree/main)
 
-## Project 2
+This project uses Python and R to explore global public health data using spatial analysis techniques. Using data from the CIA World Factbook, the analysis identifies countries with the lowest rates of alcohol consumption, tobacco use, and adult obesity. Python was used to bin and categorize the health variables, and R (via sf and ggplot2) was used to visualize the spatial distribution of these indicators. The project culminated in a choropleth map highlighting the "healthiest" countries based on the combined metrics.
 
-## Project 3
+## [School Selection Using AHP](https://github.com/Comp-Soc-Science-Methods/HW3_ahp)
+
+Analytic Hierarchy Process (AHP) was used to rank three schools based on six criteria: learning, friends, school life, vocational training, college prep, and music classes. Pairwise comparison matrices were created for both criteria and alternatives using data from Google Sheets. The Python library ahpy was used to calculate weights and consistency ratios.
