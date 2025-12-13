@@ -2,4 +2,4 @@
 title: "Dashboard"
 ---
 
-Here is a [dashboard](https://madisonhess.github.io/Homework_2/) I created for a project I worked on in DACSS 690D. It looks a the predicted listing price per night on Airbnb for a specific address in Cambridge, MA and includes a choropleth visualization,
+Here is a [dashboard](https://madisonhess.github.io/Homework_2/) I created for a project I worked on in DACSS 690D. It looks at the predicted listing price per night on Airbnb for a specific address in Cambridge, MA and includes a choropleth visualization. The dashboard itself also includes a link to the repository created for the assignment, with the code I used to generate the flexdashboard and visualizations through R and Python. 
