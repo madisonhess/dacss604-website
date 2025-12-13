@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - dashboard.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/madisonrhess/

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – Madison Hess’ Personal Webpage</title>
+<title>Dashboard – Madison Hess’ Personal Webpage</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,6 +35,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -91,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -99,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Academic Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dashboard.html"> 
+    <a class="nav-link active" href="./dashboard.html" aria-current="page"> 
 <span class="menu-text">Dashboard</span></a>
   </li>  
 </ul>
@@ -115,41 +116,45 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#resume" id="toc-resume" class="nav-link active" data-scroll-target="#resume">Resume</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<div class="quarto-about-broadside column-page">
-  <div class="about-main">
-    <div class="about-entity" style="background-image: url('img/IMG_7083.png')"></div>
-    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">Dashboard</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-
-<p>Hi! I’m Madison (Maddie) Hess, a graduate student at the University of Massachusetts Amherst, where I’m pursuing an M.S. in Data Analytics and Computational Social Science and expect to graduate in February 2026. I have a background in sociology and mathematics from the University of Portland and am passionate about using data to better understand social behavior and improve community outcomes.</p>
-<p>I currently work at Seaport Research Partners, where I support equity research analysts through financial modeling and data mining, strengthening my quantitative and analytical skill set. My academic and applied work has explored topics such as news consumption habits, juvenile delinquency, and social networks, using tools like R, SPSS, and Excel.</p>
-<p>Outside of academics and work, you’ll usually find me cooking or baking, playing tennis, or learning new songs on the guitar.</p>
-<section id="resume" class="level2">
-<h2 data-anchor-id="resume">Resume</h2>
-<p>Here is an old copy of my <a href="old_resume.pdf">resume</a> for the purpose of this assignment.</p>
+  
 
 
-</section>
-</main></div>
-  </div>
-</div>
- <!-- /main -->
+</header>
+
+
+<p>Here is a <a href="https://madisonhess.github.io/Homework_2/">dashboard</a> I created for a project I worked on in DACSS 690D. It looks a the predicted listing price per night on Airbnb for a specific address in Cambridge, MA and includes a choropleth visualization,</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

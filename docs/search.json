@@ -14,6 +14,13 @@
     "text": "Resume\nHere is an old copy of my resume for the purpose of this assignment."
   },
   {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Here is a dashboard I created for a project I worked on in DACSS 690D. It looks a the predicted listing price per night on Airbnb for a specific address in Cambridge, MA and includes a choropleth visualization,"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Academic Projects",
